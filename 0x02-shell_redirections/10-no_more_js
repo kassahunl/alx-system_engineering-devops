@@ -1,2 +1,2 @@
 #!/bin/bashe
-rm *.js
+rm ."*.js"
